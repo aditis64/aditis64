@@ -16,7 +16,11 @@ Connect with me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditis64&layout=compact&theme=calm)](https://github.com/aditis64/github-readme-stats)
 
 🐍 Here's a fun touch: 
-![snake gif](https://github.com/aditis64/aditis64/blob/output/ocean.gif#gh-light-mode-only)
-![snake gif](https://github.com/aditis64/aditis64/blob/output/github-snake-dark.svg#gh-dark-mode-only)
----
+🐍 Here's a fun touch:  
+
+![GitHub Snake Light](https://raw.githubusercontent.com/aditis64/aditis64/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/aditis64/aditis64/output/github-snake-dark.svg#gh-dark-mode-only)
+
+![GitHub Snake Ocean](https://raw.githubusercontent.com/aditis64/aditis64/output/ocean.gif)
+
 

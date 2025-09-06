@@ -1,9 +1,10 @@
   
-👋 Hey there! I'm Aditi Srivastava,
-
-💻 I thrive on crafting solutions with Java, a language I deeply love. My journey with Java has also led me to explore the exciting realm of Android development, where I continuously hone my skills and embrace new challenges.
-
-🚀 Always eager to innovate and create, I'm fueled by the endless possibilities of technology. Whether it's refining existing projects or diving into new concepts, I'm committed to lifelong learning and growth.
+👋 Hi, I'm Aditi Srivastava.  
+I'm a Software Developer & Data Engineer with 2.7+ years of experience building scalable systems and data solutions.  
+I work with React, SQL, Python, Airflow, and Databricks to design applications and automate ETL workflows.  
+My experience spans frontend development, ECM migration, and data pipeline optimization.  
+I enjoy transforming raw data into structured, meaningful insights that drive impact.  
+Curious and growth-driven, I'm always exploring modern architectures and innovative technologies.  
 
 ---
 

@@ -21,5 +21,5 @@
 
 ### 🐍 Here's a fun touch:  
 
-![GitHub Snake](https://raw.githubusercontent.com/aditis64/aditis64/output/neon.gif)
+![GitHub Snake](https://raw.githubusercontent.com/aditis64/aditis64/output/ocean.gif)
 

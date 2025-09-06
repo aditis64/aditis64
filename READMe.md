@@ -14,7 +14,7 @@
 ---
 
 ### 📊 GitHub Stats:
-[![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditis64&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/aditis64/github-readme-stats)  
+[![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditis64&hide=issues&count_private=true&show_icons=true&theme=radical)](https://github.com/aditis64/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditis64&layout=compact&theme=calm)](https://github.com/aditis64/github-readme-stats)
 
 ---

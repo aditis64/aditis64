@@ -15,12 +15,11 @@ Connect with me:
 [![Aditi' GitHub stats](https://github-readme-stats.vercel.app/api?username=aditis64&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/aditis64/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditis64&layout=compact&theme=calm)](https://github.com/aditis64/github-readme-stats)
 
-🐍 Here's a fun touch: 
-🐍 Here's a fun touch:  
+🐍 Here's a fun touch:   
+
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/aditis64/aditis64/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/aditis64/aditis64/output/github-snake-dark.svg#gh-dark-mode-only)
-
 ![GitHub Snake Ocean](https://raw.githubusercontent.com/aditis64/aditis64/output/ocean.gif)
 
 

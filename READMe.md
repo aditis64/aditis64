@@ -1,6 +1,13 @@
   
-👋 Hi, I'm Aditi Srivastava, a Software Developer & Data Engineer with 2.7+ years of experience building scalable systems and data solutions.  
-I work with React, SQL, Python, Airflow, and Databricks to design applications and automate ETL workflows. My experience spans frontend development, ECM migration, and data pipeline optimization. I enjoy transforming raw data into structured, meaningful insights that drive impact.
+👋 Hi, I'm Aditi Srivastava, a Software Developer & Data Engineer with 2.7+ years of experience building scalable systems and data solutions.
+I love creating scalable applications, automating ETL workflows, and innovating data systems using React, SQL, Python, Airflow, and Databricks.  
+
+📊 I thrive on turning raw data into meaningful insights through frontend development, ECM migration, and data engineering.  
+Passionate about growth, I continuously explore modern architectures and event-driven technologies to build impactful solutions.  
+
+🤝 Beyond coding, I enjoy collaborating with teams, sharing knowledge, and contributing to projects that make a real difference.  
+I’m excited to keep learning, take on new challenges, and create solutions that blend innovation with impact.  
+
 
 ---
 

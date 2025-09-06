@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats:
 [![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditis64&hide=issues&count_private=true&show_icons=true&theme=radical)](https://github.com/aditis64/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditis64&layout=compact&theme=tokyonight)](https://github.com/aditis64/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditis64&layout=compact&theme=radical)](https://github.com/aditis64/github-readme-stats)
 
 ---
 
@@ -24,5 +24,5 @@
 ![GitHub Snake](https://raw.githubusercontent.com/aditis64/aditis64/output/ocean.gif) -->
 
 🐍 Here's a fun touch: 
-![snake gif](https://github.com/aditi64s/aditi64s/blob/output/ocean.gif#gh-light-mode-only)
-![snake gif](https://github.com/aditi64s/aditi64s/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/aditis64/aditis64/blob/output/ocean.gif#gh-light-mode-only)
+![snake gif](https://github.com/aditis64/aditis64/blob/output/github-snake-dark.svg#gh-dark-mode-only)

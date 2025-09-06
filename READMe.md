@@ -19,7 +19,10 @@
 
 ---
 
-### 🐍 Here's a fun touch:  
+<!-- ### 🐍 Here's a fun touch:  
 
-![GitHub Snake](https://raw.githubusercontent.com/aditis64/aditis64/output/ocean.gif)
+![GitHub Snake](https://raw.githubusercontent.com/aditis64/aditis64/output/ocean.gif) -->
 
+🐍 Here's a fun touch: 
+![snake gif](https://github.com/ShreyasBhagwat/ShreyasBhagwat/blob/output/ocean.gif#gh-light-mode-only)
+![snake gif](https://github.com/ShreyasBhagwat/ShreyasBhagwat/blob/output/github-snake-dark.svg#gh-dark-mode-only)

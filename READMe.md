@@ -13,10 +13,10 @@ I’m excited to keep learning, take on new challenges, and create solutions tha
 
 ### 🌐 Connect with me:
 [![GitHub: aditis64](https://img.shields.io/github/followers/aditis64?label=follow&style=social)](https://github.com/aditis64)
-
-
-
 [![LinkedIn: Aditi Srivastava](https://img.shields.io/badge/-Aditi%20Srivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditis64/)](https://www.linkedin.com/in/aditis64/)
+[![GitHub: aditis64](https://img.shields.io/badge/GitHub-aditis64-black?style=flat-square&logo=github)](https://github.com/aditis64)
+[![LinkedIn: Aditi Srivastava](https://img.shields.io/badge/LinkedIn-Aditi%20Srivastava-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditis64/)
+
 
 ---
 

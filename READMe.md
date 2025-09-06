@@ -1,5 +1,5 @@
 
-
+<!-- 
 👋 Hey there! I'm Aditi Srivastava,
 
 💻 I thrive on crafting solutions with Java, a language I deeply love. My journey with Java has also led me to explore the exciting realm of Android development, where I continuously hone my skills and embrace new challenges.
@@ -13,7 +13,7 @@ Connect with me:
 📊 Check out my GitHub stats:
 
 [![Aditi' GitHub stats](https://github-readme-stats.vercel.app/api?username=aditis64&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/aditis64/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditis64&layout=compact&theme=calm)](https://github.com/aditis64/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditis64&layout=compact&theme=calm)](https://github.com/aditis64/github-readme-stats) -->
 
 🐍 Here's a fun touch:   
 👋 Hey there! I'm Aditi Srivastava,
